@@ -1,0 +1,13 @@
+.logo-header {
+    animation: logoAnimation 2s infinite alternate ease-in-out;
+}
+
+@keyframes logoAnimation {
+
+
+    from {
+        
+        transform: translate(-5%, -5%) rotate(-5deg);
+
+    }
+}
